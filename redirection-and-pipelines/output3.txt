@@ -1,0 +1,23 @@
+total 24
+-rw-rw-rw- 1 vscode root    53 Sep 15 09:56 error.txt
+-rw-rw-rw- 1 vscode root   390 Sep 15 09:56 output2.txt
+-rw-rw-rw- 1 vscode vscode   0 Sep 15 11:28 output3.txt
+-rw-rw-rw- 1 vscode root   333 Sep 15 09:56 output.txt
+-rw-rw-rw- 1 vscode root   677 Sep 15 09:56 paragrah.txt
+-rw-rw-rw- 1 vscode root   415 Sep 15 09:56 part1.txt
+-rw-rw-rw- 1 vscode root   262 Sep 15 09:56 part2.txt
+-rw-rw-rw- 1 vscode root     0 Sep 15 09:56 part3.txt
+-rw-rw-rw- 1 vscode root     0 Sep 15 09:56 part4.txt
+-rw-rw-rw- 1 vscode vscode   0 Sep 15 11:28 part5.txt
+total 28
+-rw-rw-rw- 1 vscode root    53 Sep 15 09:56 error.txt
+-rw-rw-rw- 1 vscode root   390 Sep 15 09:56 output2.txt
+-rw-rw-rw- 1 vscode vscode 557 Sep 15 11:28 output3.txt
+-rw-rw-rw- 1 vscode root   333 Sep 15 09:56 output.txt
+-rw-rw-rw- 1 vscode root   677 Sep 15 09:56 paragrah.txt
+-rw-rw-rw- 1 vscode root   415 Sep 15 09:56 part1.txt
+-rw-rw-rw- 1 vscode root   262 Sep 15 09:56 part2.txt
+-rw-rw-rw- 1 vscode root     0 Sep 15 09:56 part3.txt
+-rw-rw-rw- 1 vscode root     0 Sep 15 09:56 part4.txt
+-rw-rw-rw- 1 vscode vscode   0 Sep 15 11:28 part5.txt
+-rw-rw-rw- 1 vscode vscode   0 Sep 15 11:30 part6.txt
